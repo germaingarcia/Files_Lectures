@@ -1,0 +1,14 @@
+ID,genero,edad,pais,tipo_subscripcion,tiempo_escuchado,canciones_por_dia,tasa_de_saltos,tipo_de_dispositivo,anuncios_por_semana,escucha_sin_conexion,cancelo_suscripcion,
+2002,Male,23,peru,Free,1,5,1,App,10,No,No
+17,Male,42,china,Premium,22225555552255,500,si,Aplicación Web,20,si,si
+29,Male,40,peru,Free,5,120,25,Escritorio,40,No,si
+1985,Male,40,peru,Premium,150,15,10,App,0,No,si
+161702,Female,38,peru,Free,2,20,si,App,50,No,si
+11,Male,30,peru,Premium,400,20,20%,App,0,si,si
+12,Female,33,peru,Premium,500,50,20,App,1,si,si
+17,Male,35,peru,Free,300,10,0.3,App,20,No,No
+281096,Male,28,peru,Premium,8,150,"0,1",Escritorio,0,si,No
+7,Male,47,peru,Free,1000,15,0.2,App,50,No,si
+205689,Male,38,peru,Free,1500,5,0.70,App,2,si,No
+0111,Male,28,peru,Free,350,30, 0.3,App,50,No,si
+245,Female,39,peru,Free,400,6,0.6,Escritorio,5,No,si
