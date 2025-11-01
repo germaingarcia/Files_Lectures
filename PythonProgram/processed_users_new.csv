@@ -1,0 +1,157 @@
+id,age,disability,education,email,ethnicity,gender,nationality,neighborhood,salary,victim
+81,55–65,No,Doctorate,gnonato@icmc.usp.br,1,Man,Brazil,Never,$5000–$7000,I have not been a victim of any crime
+82,35–44,No,Bachelor-degree,andremw7@usp.br,1,Man,Brazil,Rarely,<$1000,I have not been a victim of any crime
+83,18–24,No,High-school,lucasl.castro@hotmail.com,1,Man,Brazil,Occasionally,<$1000,I have not been a victim of any crime
+84,18–24,No,High-school,gabriella.almeida075@gmail.com,1,Woman,Brazil,Always,<$1000,I have not been a victim of any crime
+85,25–34,No,Bachelor-degree,jonathansanchez@usp.br,1,Man,Peru,Never,$1000–$3000,I have not been a victim of any crime
+86,18–24,No,High-school,bruno.otani@usp.br,1,Man,Brazil,Rarely,<$1000,I have not been a victim of any crime
+87,18–24,No,High-school,ghna.filho@gmail.com,1,Man,Brazil,Rarely,<$1000,I have not been a victim of any crime
+88,18–24,No,High-school,gabriel.c.iamato@usp.br,1,Man,Brazil,Rarely,<$1000,I have not been a victim of any crime
+89,18–24,No,High-school,davi.npereira271@gmail.com,1,Man,Brazil,Never,$3000–$5000,I have not been a victim of any crime
+90,18–24,No,High-school,joaog.bastos@usp.br,1,Man,Brazil,Occasionally,<$1000,I have not been a victim of any crime
+91,18–24,No,High-school,vitorveiga@usp.br,1,Man,Brazil,Occasionally,<$1000,I have not been a victim of any crime
+92,18–24,No,Bachelor-degree,jotapcastelli@usp.br,1,Man,Brazil,Occasionally,<$1000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+93,18–24,No,High-school,gulima@usp.br,1,Man,Brazil,Always,<$1000,I have not been a victim of any crime
+94,18–24,No,High-school,daviagsa@usp.br,1,Man,Brazil,Occasionally,<$1000,I have not been a victim of any crime
+95,25–34,No,Bachelor-degree,de_abreu@usp.br,1,Man,Brazil,Occasionally,$1000–$3000,Others
+96,25–34,No,Bachelor-degree,mateus.hdf@usp.br,1,Man,Brazil,Never,<$1000,I have not been a victim of any crime
+97,18–24,No,High-school,morais.a@usp.br,1,Man,Brazil,Always,<$1000,I have not been a victim of any crime
+98,18–24,No,High-school,liviarosito@usp.br,1,Woman,Brazil,Rarely,<$1000,I have not been a victim of any crime
+99,18–24,No,High-school,johar.barzola@utec.edu.pe,1,Man,Peru,Occasionally,$1000–$3000,Others
+100,18–24,No,High-school,leonardo.huaman.c@utec.edu.pe,1,Man,Peru,Occasionally,<$1000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+101,18–24,No,High-school,ricardo.acuna@utec.edu.pe,1,Man,Peru,Occasionally,<$1000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+102,18–24,No,High-school,willian.berrocal@utec.edu.pe,1,Man,Peru,Never,<$1000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+103,18–24,No,High-school,mia.hurtado@utec.edu.pe,1,Woman,Peru,Rarely,<$1000,"Yes, crime against my person (e.g., robbery, assault, threat, sexual crime)"
+104,18–24,No,Bachelor-degree,paola.maguina@utec.edu.pe,1,Woman,Peru,Occasionally,<$1000,I have not been a victim of any crime
+105,18–24,No,High-school,juan.velo@utec.edu.pe,1,Man,Peru,Rarely,<$1000,I have not been a victim of any crime
+106,18–24,No,High-school,nahia.escalante@utec.edu.pe,1,Woman,Peru,Rarely,<$1000,I have not been a victim of any crime
+107,18–24,No,High-school,andres.rojas@utec.edu.pe,1,Man,Peru,Rarely,<$1000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+108,18–24,No,High-school,juan.aquino@utec.edu.pe,1,Man,Peru,Rarely,<$1000,I have not been a victim of any crime
+109,18–24,No,High-school,josue.arbulu@utec.edu.pe,1,Man,Peru,Occasionally,<$1000,Others
+110,35–44,No,Doctorate,asoriano@utec.edu.pe,1,Woman,Peru,Occasionally,$1000–$3000,"Yes, crime against my person (e.g., robbery, assault, threat, sexual crime)"
+111,18–24,No,Master’s-degree,ariana.villegas@utec.edu.pe,1,Woman,Peru,Rarely,$3000–$5000,I have not been a victim of any crime
+112,18–24,No,High-school,mariafernanda.061104@gmail.com,1,Woman,Peru,Occasionally,<$1000,I have not been a victim of any crime
+113,18–24,No,High-school,paolo.medrano@utec.edu.pe,1,Man,Peru,Rarely,<$1000,"Yes, crime against my person (e.g., robbery, assault, threat, sexual crime)"
+114,35–44,No,Master’s-degree,dante.baldeon@utec.edu.pe,1,Man,Peru,Rarely,$3000–$5000,I have not been a victim of any crime
+115,18–24,No,Bachelor-degree,diego.alarcon.b@utec.edu.pe,1,Man,Peru,Never,<$1000,I have not been a victim of any crime
+116,18–24,No,High-school,maria.lazon@utec.edu.pe,1,Woman,Peru,Rarely,<$1000,I have not been a victim of any crime
+117,18–24,Visual,Bachelor-degree,julio.cespedes@utec.edu.pe,1,Man,Peru,Rarely,$1000–$3000,I have not been a victim of any crime
+118,18–24,No,High-school,ricardo.palomino@utec.edu.pe,1,Man,Peru,Always,<$1000,"Yes, crime against my person (e.g., robbery, assault, threat, sexual crime)"
+119,18–24,No,High-school,leonardo.isidro@utec.edu.pe,1,Man,Peru,Occasionally,<$1000,I have not been a victim of any crime
+120,18–24,No,Bachelor-degree,vne2102@columbia.edu,1,Woman,Peru,Occasionally,<$1000,"Yes, crime against my person (e.g., robbery, assault, threat, sexual crime)"
+121,18–24,No,High-school,micaela.placencia@utec.edu.pe,1,Woman,Peru,Occasionally,<$1000,I have not been a victim of any crime
+122,18–24,No,High-school,matias.maravi@utec.edu.pe,1,Man,Peru,Occasionally,<$1000,I have not been a victim of any crime
+123,18–24,No,High-school,alanis.espinoza@utec.edu.pe,1,Woman,Peru,Always,<$1000,I have not been a victim of any crime
+124,18–24,No,High-school,zunigadiana011@gmail.com,1,Woman,Peru,Rarely,$3000–$5000,I have not been a victim of any crime
+125,18–24,No,High-school,andrea.coa@utec.edu.pe,1,Woman,Peru,Rarely,<$1000,I have not been a victim of any crime
+126,18–24,No,High-school,daniela.villacorta@utec.edu.pe,1,Woman,Peru,Always,<$1000,I have not been a victim of any crime
+127,18–24,No,High-school,harold.arana@utec.edu.pe,1,Man,Peru,Occasionally,<$1000,I have not been a victim of any crime
+128,35–44,No,Master’s-degree,wnina@utec.edu.pe,1,Man,Peru,Occasionally,$1000–$3000,I have not been a victim of any crime
+129,18–24,No,High-school,valentina.porcella@utec.edu.pe,1,Woman,Peru,Occasionally,<$1000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+130,18–24,No,Bachelor-degree,tenrique821@gmail.com,1,Man,Peru,Occasionally,$1000–$3000,"Yes, crime against my person (e.g., robbery, assault, threat, sexual crime)"
+131,25–34,No,Bachelor-degree,leonardo.montoya@utec.edu.pe,1,Man,Peru,Occasionally,$1000–$3000,I have not been a victim of any crime
+132,18–24,No,High-school,alondra.obregon@utec.edu.pe,1,Woman,Peru,Occasionally,<$1000,I have not been a victim of any crime
+133,25–34,No,Bachelor-degree,andres.riveros@utec.edu.pe,1,Man,Peru,Rarely,<$1000,I have not been a victim of any crime
+134,18–24,Visual,High-school,christian.frisancho@utec.edu.pe,1,Man,Peru,Always,$1000–$3000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+135,18–24,No,High-school,dosacp@gmail.com,1,Woman,Peru,Occasionally,<$1000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+136,18–24,No,High-school,gabrielmurillomachicao@gmail.com,1,Man,Peru,Always,$1000–$3000,I have not been a victim of any crime
+137,18–24,No,High-school,josue.velo@utec.edu.pe,1,Man,Peru,Occasionally,<$1000,I have not been a victim of any crime
+138,18–24,No,High-school,aj.marceloch28@gmail.com,1,Man,Peru,Always,<$1000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+139,35–44,No,Bachelor-degree,carlos.guerra@utec.edu.pe,1,Man,Peru,Occasionally,$1000–$3000,I have not been a victim of any crime
+140,18–24,No,Bachelor-degree,jimena.gurbillon@utec.edu.pe,1,Woman,Peru,Occasionally,<$1000,"Yes, crime against my person (e.g., robbery, assault, threat, sexual crime)"
+141,18–24,No,High-school,carlos.neciosup@utec.edu.pe,1,Man,Peru,Rarely,$1000–$3000,I have not been a victim of any crime
+142,18–24,No,High-school,albacabrerapilco@gmail.com,1,Woman,Peru,Rarely,<$1000,I have not been a victim of any crime
+143,18–24,No,Bachelor-degree,diego.guerra@utec.edu.pe,1,Man,Peru,Rarely,<$1000,I have not been a victim of any crime
+144,25–34,No,Master’s-degree,yesica.camavilca@gmail.com,1,Woman,Peru,Occasionally,<$1000,I have not been a victim of any crime
+145,18–24,No,Bachelor-degree,lovisacl@kth.se,1,Woman,Sweden,Never,<$1000,I have not been a victim of any crime
+146,18–24,Cognitive,Bachelor-degree,jennifer.kohler02@gmail.com,1,Woman,Sweden,Never,<$1000,I have not been a victim of any crime
+147,18–24,No,Bachelor-degree,elinor.selinder@gmail.com,1,Woman,Sweden,Occasionally,$1000–$3000,I have not been a victim of any crime
+148,18–24,No,Master’s-degree,ciber.hiper.cubo@gmail.com,1,Woman,Spain,Occasionally,<$1000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+149,18–24,No,Bachelor-degree,framslov@kth.se,1,Man,Sweden,Never,<$1000,I have not been a victim of any crime
+150,25–34,No,Bachelor-degree,henrik.e.soukka@gmail.com,1,Man,Sweden,Rarely,<$1000,I have not been a victim of any crime
+151,18–24,No,Bachelor-degree,bschmi@kth.se,1,Man,Sweden,Never,<$1000,I have not been a victim of any crime
+152,18–24,Visual,Bachelor-degree,agnes.cw.ng@gmail.com,1,Woman,Sweden,Rarely,<$1000,I have not been a victim of any crime
+153,18–24,Visual,Bachelor-degree,cjwr@kth.se,1,Woman,Philippines,Occasionally,<$1000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+154,25–34,No,Bachelor-degree,diagnosa.fenomena@gmail.com,1,Woman,Indonesia,Occasionally,$1000–$3000,I have not been a victim of any crime
+155,18–24,No,Bachelor-degree,yehua@kth.se,1,Woman,China,Occasionally,<$1000,I have not been a victim of any crime
+156,25–34,No,High-school,helenhai@kth.se,1,Woman,Sweden,Never,$1000–$3000,"Yes, crime against my person (e.g., robbery, assault, threat, sexual crime)"
+157,25–34,No,Bachelor-degree,rnordma@kth.se,1,Man,Sweden,Rarely,<$1000,I have not been a victim of any crime
+158,18–24,No,Bachelor-degree,morrissc@kth.se,1,Man,Sweden,Occasionally,$1000–$3000,I have not been a victim of any crime
+159,25–34,No,Bachelor-degree,isaklar@kth.se,1,Man,Sweden,Never,$1000–$3000,I have not been a victim of any crime
+160,25–34,No,High-school,yan.trindade@usp.br,1,Man,Brazil,Occasionally,<$1000,I have not been a victim of any crime
+161,45–54,No,Bachelor-degree,fernandoramos7@usp.br,1,Man,Brazil,Occasionally,$7000+,I have not been a victim of any crime
+162,18–24,No,High-school,Carolakimiueda@gmail.com,1,Woman,Brazil,Occasionally,<$1000,I have not been a victim of any crime
+163,18–24,No,High-school,lucas.andreolli@usp.br,1,Man,Brazil,Occasionally,<$1000,I have not been a victim of any crime
+164,25–34,No,High-school,vogel@usp.br,1,Man,Brazil,Rarely,$1000–$3000,I have not been a victim of any crime
+165,18–24,No,High-school,vimorotti@usp.br,1,Man,Brazil,Rarely,<$1000,I have not been a victim of any crime
+166,18–24,No,High-school,davi.npereira@usp.br,1,Man,Brazil,Rarely,$1000–$3000,I have not been a victim of any crime
+167,18–24,No,High-school,carvalhomateus@usp.br,1,Man,Brazil,Always,<$1000,I have not been a victim of any crime
+169,18–24,Cognitive,High-school,sadfsdfS@asm.com,1,Woman,Finland,Always,$1000–$3000,Others
+171,25–34,No,Bachelor-degree,mateustest@test.com,1,Man,Brazil,Never,$7000+,I have not been a victim of any crime
+173,25–34,No,Bachelor-degree,mateustest3@test.com,1,Man,Brazil,Never,$7000+,I have not been a victim of any crime
+174,18–24,No,Bachelor-degree,ana.kodama@usp.br,1,Woman,Brazil,Occasionally,<$1000,I have not been a victim of any crime
+175,18–24,No,High-school,caiodraco@usp.br,1,Man,Brazil,Occasionally,<$1000,I have not been a victim of any crime
+176,18–24,No,High-school,nataliecoelho@gmail.com,1,Woman,Brazil,Occasionally,$7000+,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+179,25–34,No,Bachelor-degree,ebens@kth.se,1,Man,Sweden,Never,<$1000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+180,18–24,No,High-school,caiopetroncini@gmail.com,1,Man,Brazil,Never,<$1000,I have not been a victim of any crime
+181,18–24,No,High-school,higor.importante.cf@gmail.com,1,Man,Brazil,Occasionally,<$1000,I have not been a victim of any crime
+182,18–24,No,Bachelor-degree,elias.bax@gmail.com,1,Man,Sweden,Rarely,$1000–$3000,I have not been a victim of any crime
+183,18–24,No,High-school,nicolas.silvaoliveira18180225@usp.br,1,Man,Brazil,Rarely,<$1000,I have not been a victim of any crime
+168,18–24,No,High-school,matheus2003rodriguezz@gmail.com,1,Man,Brazil,Occasionally,<$1000,I have not been a victim of any crime
+170,18–24,No,Bachelor-degree,elias.nystroem@gmail.com,1,Man,Sweden,Rarely,<$1000,I have not been a victim of any crime
+172,25–34,No,Master’s-degree,mateustest2@test.com,1,Man,Brazil,Never,$7000+,I have not been a victim of any crime
+177,18–24,No,High-school,carol.akimi@usp.br,1,Woman,Brazil,Occasionally,<$1000,I have not been a victim of any crime
+178,18–24,No,High-school,Felipecamargocerri@usp.br,1,Man,Brazil,Rarely,<$1000,I have not been a victim of any crime
+184,18–24,No,Other,vania.ceccato@abe.kth.se,1,Woman,Sweden,Occasionally,$5000–$7000,I have not been a victim of any crime
+185,35–44,No,Doctorate,jioannidis_88@yahoo.gr,1,Man,Greece,Never,$3000–$5000,I have not been a victim of any crime
+186,18–24,Visual,Bachelor-degree,brahma@kth.se,1,Woman,India,Rarely,<$1000,"Yes, crime against my person (e.g., robbery, assault, threat, sexual crime)"
+187,25–34,Visual,High-school,cris@gmail.com,1,Woman,,Never,$3000–$5000,I have not been a victim of any crime
+188,25–34,No,Bachelor-degree,ymyu@kth.se,1,Man,Indonesia,Rarely,<$1000,I have not been a victim of any crime
+189,25–34,No,Bachelor-degree,hdhsh@mail.com,1,Man,Sweden,Never,$1000–$3000,I have not been a victim of any crime
+190,18–24,No,Bachelor-degree,amdam@kth.se,1,Man,Norway,Never,$1000–$3000,I have not been a victim of any crime
+191,25–34,No,Bachelor-degree,bfkfk@fjdkd.com,1,Man,Sweden,Never,$1000–$3000,I have not been a victim of any crime
+192,18–24,Mobility,Bachelor-degree,brandonfarmer75@outlook.com,1,Man,,Always,$3000–$5000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+193,25–34,No,Master’s-degree,cheepengnan@gmail.com,1,Man,China,Rarely,$1000–$3000,I have not been a victim of any crime
+194,25–34,No,Bachelor-degree,nahro@kth.se,1,Man,Sweden,Never,<$1000,I have not been a victim of any crime
+195,18–24,No,Master’s-degree,asparr@kth.se,1,Man,Sweden,Always,<$1000,"Yes, crime against my person (e.g., robbery, assault, threat, sexual crime)"
+196,18–24,No,High-school,alexape@kth.se,1,Man,Sweden,Rarely,<$1000,I have not been a victim of any crime
+197,18–24,No,Bachelor-degree,herdi@kth.se,1,Man,Iraq,Never,<$1000,I have not been a victim of any crime
+198,25–34,No,Bachelor-degree,garabet.aslo7@gmail.com,1,Man,Sweden,Never,$3000–$5000,I have not been a victim of any crime
+199,18–24,No,Bachelor-degree,4g7s66dm8@mozmail.com,1,Man,Sweden,Never,$1000–$3000,I have not been a victim of any crime
+200,18–24,No,High-school,ebrar.dmrzn@gmail.com,1,Man,Turkey,Never,$1000–$3000,I have not been a victim of any crime
+201,18–24,No,Master’s-degree,flarssen@kth.se,1,Man,Sweden,Never,$1000–$3000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+202,25–34,No,Master’s-degree,jesperob@kth.se,1,Man,Sweden,Rarely,$3000–$5000,I have not been a victim of any crime
+203,18–24,No,Bachelor-degree,dinesjo@kth.se,1,Man,Sweden,Always,$1000–$3000,I have not been a victim of any crime
+204,18–24,No,Bachelor-degree,eskil.nyberg@gmail.com,1,Man,Sweden,Rarely,$1000–$3000,I have not been a victim of any crime
+205,25–34,No,Master’s-degree,jaknyb@kth.se,1,Man,Sweden,Never,$3000–$5000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+206,25–34,No,Master’s-degree,sgtbamse@gmail.com,1,Man,Sweden,Never,$3000–$5000,I have not been a victim of any crime
+207,18–24,No,High-school,finnharkort@gmail.com,1,Man,Sweden,Rarely,$1000–$3000,I have not been a victim of any crime
+208,18–24,No,High-school,filipjdemeyere@gmail.com,1,Man,Sweden,Rarely,<$1000,I have not been a victim of any crime
+209,35–44,No,Master’s-degree,jstyrud@kth.se,1,Man,Sweden,Never,$3000–$5000,I have not been a victim of any crime
+210,18–24,No,High-school,lo.mauro.yolo@gmail.com,1,Man,Sweden,Never,$1000–$3000,I have not been a victim of any crime
+211,25–34,No,Bachelor-degree,Karlmats@live.se,1,Man,Sweden,Never,$1000–$3000,I have not been a victim of any crime
+212,25–34,No,Master’s-degree,linus.below@gmail.com,1,Man,Sweden,Rarely,$3000–$5000,I have not been a victim of any crime
+213,18–24,No,High-school,sethsson@kth.se,1,Man,Sweden,Never,$1000–$3000,I have not been a victim of any crime
+214,25–34,No,Master’s-degree,kwijk@kth.se,1,Man,Sweden,Rarely,$1000–$3000,I have not been a victim of any crime
+215,18–24,No,Master’s-degree,mrl@kth.se,1,Man,Sweden,Rarely,$5000–$7000,I have not been a victim of any crime
+216,18–24,No,Bachelor-degree,alfredma@kth.se,1,Man,Sweden,Rarely,<$1000,I have not been a victim of any crime
+217,25–34,No,Bachelor-degree,mail@mail.com,1,Man,Sweden,Never,$1000–$3000,I have not been a victim of any crime
+218,18–24,No,Bachelor-degree,yeetdawg98@gmail.com,1,Man,Sweden,Occasionally,$1000–$3000,I have not been a victim of any crime
+219,25–34,Cognitive,Bachelor-degree,klara.alpsten@gmail.com,1,Woman,Sweden,Rarely,<$1000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+220,18–24,No,Bachelor-degree,opale.chaillet@entpe.fr,1,Woman,France,Occasionally,$1000–$3000,"Yes, crime against my person (e.g., robbery, assault, threat, sexual crime)"
+221,18–24,No,High-school,fake@email.com,1,Man,Sweden,Never,<$1000,I have not been a victim of any crime
+222,18–24,No,Master’s-degree,samlav@kth.se,1,Man,Sweden,Occasionally,$3000–$5000,I have not been a victim of any crime
+223,18–24,No,Bachelor-degree,headdick6934@gmail.com,1,Man,Sweden,Rarely,<$1000,I have not been a victim of any crime
+224,35–44,No,High-school,nbernath@gmail.com,1,Man,Sweden,Occasionally,<$1000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+225,25–34,Visual,Master’s-degree,naif@kth.se,1,Man,Afghanistan,Never,<$1000,Others
+226,18–24,No,High-school,julian.m.ley@gmail.com,1,Man,Sweden,Never,$1000–$3000,I have not been a victim of any crime
+227,25–34,No,Master’s-degree,ramtinm@kth.se,1,Man,Sweden,Always,$7000+,"Yes, crime against my person (e.g., robbery, assault, threat, sexual crime)"
+228,18–24,No,High-school,muniraibrahim144@gmail.com,1,Woman,Sweden,Rarely,<$1000,I have not been a victim of any crime
+229,25–34,No,Bachelor-degree,roman-1996@hotmail.com,1,Man,Sweden,Rarely,<$1000,I have not been a victim of any crime
+230,18–24,No,Master’s-degree,filipgunnarkarlsson@gmail.com,1,Man,Sweden,Rarely,$3000–$5000,"Yes, crime against property (e.g., theft, break-in, bicycle theft)"
+231,18–24,No,High-school,benthefrantik@gmail.com,1,Man,Germany,Never,<$1000,I have not been a victim of any crime
+232,18–24,No,Bachelor-degree,teon@kth.se,1,Other,Sweden,Rarely,<$1000,I have not been a victim of any crime
+233,18–24,No,Bachelor-degree,ralle.01.ra@gmail.com,1,Man,Sweden,Never,<$1000,I have not been a victim of any crime
+234,25–34,No,Bachelor-degree,eriksiden938@gmail.com,1,Man,Sweden,Never,<$1000,I have not been a victim of any crime
+235,25–34,No,High-school,Markus2718@gmail.com,1,Man,Sweden,Rarely,<$1000,I have not been a victim of any crime
+236,35–44,No,Other,younesw@kth.se,1,Other,Sweden,Rarely,$7000+,"Yes, crime against my person (e.g., robbery, assault, threat, sexual crime)"
